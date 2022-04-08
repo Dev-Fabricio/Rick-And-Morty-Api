@@ -1,0 +1,20 @@
+.container {
+    height: 100vh;
+
+    display: flex;
+    background: #202040;
+    flex-direction: column
+}
+.title-bar {
+    height: 15%;
+    width: 100%;
+
+
+    background: #543864;
+}
+.content-bar {
+    display: flex;
+    height: 85%;
+    
+
+}

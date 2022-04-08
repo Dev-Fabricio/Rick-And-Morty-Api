@@ -1,0 +1,11 @@
+.content-card {
+    display: flex;
+    flex-direction: row;
+
+    margin: 10% 4%;
+    
+    width: 20%;
+    height: 60%;
+
+
+}
